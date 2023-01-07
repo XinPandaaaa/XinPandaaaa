@@ -1,4 +1,4 @@
 - 👋 Hola, soy @XinPanda
 - 👀 Me interesa programar bots de discord...
-- 🌱 Actualmente estoy aprendiendo en discord.py
-- 📫 Como contactarme en discord: $ XinPanda#0001
+- 🌱 Actualmente estoy aprendiendo python
+- 📫 Como contactarme en discord: erlxntz_jrr#0001
